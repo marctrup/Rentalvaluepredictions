@@ -4,7 +4,7 @@ This project aims to predict rental values over the next 5 years to assist in re
 
 ## Project Structure
 
-- `data/`: Contains the dataset used for training.
+- `data/`: Contains the Kaggle dataset used for training the models
 - `notebooks/`: Jupyter Notebooks for data exploration, model training with various models, and hyperparameter tuning.
 - `docs/`: Documentation, including the model card and datasheet.
 
@@ -18,6 +18,6 @@ This project aims to predict rental values over the next 5 years to assist in re
 
 ## Model Card and Datasheet
 
-- [Model Card](docs/model_card.md)
-- [Datasheet](docs/datasheet.md)
+- Found in Docs. csv file
+
 
