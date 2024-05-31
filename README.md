@@ -5,11 +5,8 @@ This project aims to predict rental values over the next 5 years to assist in re
 ## Project Structure
 
 - `data/`: Contains the dataset used for training.
-- `notebooks/`: Jupyter Notebooks for data exploration, model training, and hyperparameter tuning.
-- `models/`: Saved trained models.
-- `scripts/`: Utility scripts.
+- `notebooks/`: Jupyter Notebooks for data exploration, model training with various models, and hyperparameter tuning.
 - `docs/`: Documentation, including the model card and datasheet.
-- `results/`: Results and visualizations.
 
 ## How to Run
 
@@ -24,6 +21,3 @@ This project aims to predict rental values over the next 5 years to assist in re
 - [Model Card](docs/model_card.md)
 - [Datasheet](docs/datasheet.md)
 
-## Results
-
-Results and visualizations can be found in the `results/` folder.
