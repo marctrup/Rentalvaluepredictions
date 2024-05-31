@@ -1,6 +1,6 @@
 # Property Rental Prediction
 
-This project aims to predict rental values over the next 5 years to assist in rent reviews.
+This project aims to predict rental values.
 
 ## Project Structure
 
